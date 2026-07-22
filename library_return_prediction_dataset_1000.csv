@@ -1,0 +1,1001 @@
+user_role,book_category,reservation_status,borrow_month,loan_duration,previous_late_returns,borrow_frequency,overdue_status
+Student,Fiction,No,April,14,1,2,On Time
+Faculty,Computer,Yes,October,30,0,1,On Time
+Student,Science,Yes,September,14,5,9,Late
+Student,Novel,No,January,14,5,7,Late
+Student,Science,Yes,June,7,0,7,On Time
+Student,Arts,No,October,21,0,8,On Time
+Student,Novel,Yes,September,21,5,10,Late
+Public,History,Yes,December,7,0,4,On Time
+Faculty,Fiction,Yes,February,30,2,8,Late
+Student,History,Yes,June,21,1,5,Late
+Faculty,Biography,Yes,October,14,4,4,Late
+Student,Novel,No,November,14,5,6,Late
+Faculty,Arts,Yes,April,7,2,7,Late
+Student,Science,No,April,30,3,8,Late
+Student,Science,Yes,December,21,5,10,Late
+Student,Computer,No,June,14,1,9,On Time
+Student,Arts,Yes,February,14,5,3,Late
+Faculty,Novel,Yes,July,30,4,8,Late
+Student,Computer,Yes,November,7,5,9,Late
+Faculty,Arts,No,February,21,3,3,Late
+Student,Biography,No,September,14,4,2,Late
+Public,History,Yes,March,21,1,9,On Time
+Public,Computer,Yes,October,21,3,1,Late
+Student,History,No,April,7,1,10,On Time
+Public,Fiction,No,February,14,1,8,On Time
+Public,Science,No,September,30,1,9,On Time
+Faculty,Biography,Yes,December,21,3,6,Late
+Student,Computer,No,February,14,1,2,On Time
+Student,Computer,Yes,October,14,0,2,On Time
+Faculty,Fiction,Yes,February,7,2,2,Late
+Student,History,No,April,14,5,10,Late
+Student,Science,No,July,14,0,2,On Time
+Faculty,History,No,July,30,5,1,Late
+Faculty,Biography,Yes,January,30,5,6,Late
+Faculty,Fiction,Yes,April,14,4,8,Late
+Student,Science,No,August,14,0,8,On Time
+Faculty,Arts,Yes,January,7,0,4,On Time
+Student,Novel,No,April,30,0,3,On Time
+Student,Novel,No,August,21,3,9,Late
+Faculty,Novel,Yes,April,21,1,1,Late
+Student,Computer,Yes,December,21,0,1,On Time
+Student,Computer,Yes,January,7,1,2,Late
+Student,Biography,Yes,July,7,4,4,Late
+Student,Fiction,Yes,July,21,2,4,Late
+Faculty,History,Yes,May,30,1,5,Late
+Student,Arts,Yes,January,30,4,10,Late
+Public,Fiction,Yes,September,21,1,6,Late
+Public,Science,No,May,14,3,9,Late
+Faculty,Computer,Yes,November,21,5,2,Late
+Public,Science,No,February,7,5,9,Late
+Student,History,Yes,December,21,1,5,Late
+Student,History,Yes,February,30,2,1,Late
+Student,Arts,Yes,November,21,1,8,Late
+Student,Novel,Yes,February,7,5,3,Late
+Student,Arts,No,October,14,3,3,Late
+Student,History,Yes,June,14,5,4,Late
+Faculty,History,No,October,14,1,3,On Time
+Public,Arts,Yes,July,7,1,6,On Time
+Faculty,Novel,Yes,May,14,5,2,Late
+Student,Fiction,No,April,14,3,6,Late
+Student,Arts,Yes,April,7,5,4,Late
+Student,History,Yes,May,21,5,9,Late
+Student,Arts,No,January,7,2,3,Late
+Student,History,Yes,February,30,2,6,Late
+Student,Computer,Yes,July,14,2,1,Late
+Faculty,Fiction,Yes,June,30,0,6,On Time
+Student,Biography,Yes,December,21,4,5,Late
+Faculty,History,No,December,21,4,3,Late
+Student,Biography,No,November,14,4,10,Late
+Student,Computer,Yes,May,21,1,7,Late
+Faculty,Computer,No,August,30,3,4,Late
+Student,Arts,Yes,November,7,2,9,Late
+Faculty,Computer,No,February,14,5,5,Late
+Student,Science,Yes,January,7,1,8,On Time
+Student,Arts,Yes,August,30,5,10,Late
+Student,Biography,No,August,30,1,3,Late
+Faculty,Fiction,Yes,July,14,1,9,On Time
+Student,Computer,Yes,February,30,1,8,Late
+Faculty,Computer,No,August,30,4,8,Late
+Public,Biography,No,August,21,1,5,On Time
+Faculty,Computer,No,November,14,2,8,On Time
+Student,History,Yes,May,21,2,9,Late
+Student,Science,Yes,July,14,5,4,Late
+Student,Novel,No,September,30,3,1,Late
+Student,Novel,No,October,7,4,7,Late
+Student,History,No,July,30,4,9,Late
+Faculty,Science,No,April,21,3,8,Late
+Student,History,No,December,14,3,3,Late
+Public,Computer,Yes,July,7,0,7,On Time
+Student,Novel,Yes,January,21,3,6,Late
+Student,History,No,July,21,3,5,Late
+Faculty,Novel,Yes,December,7,2,4,Late
+Faculty,Arts,Yes,January,14,1,1,On Time
+Student,Science,Yes,August,7,4,4,Late
+Student,History,No,March,7,1,5,On Time
+Student,Fiction,No,October,30,3,4,Late
+Student,Biography,Yes,February,21,5,10,Late
+Faculty,Arts,Yes,June,30,5,6,Late
+Student,Biography,No,January,30,3,2,Late
+Student,History,No,December,14,3,3,Late
+Faculty,Biography,No,October,30,3,7,Late
+Faculty,Computer,No,June,14,0,5,On Time
+Public,Science,No,October,30,2,1,Late
+Student,History,Yes,August,14,2,5,Late
+Student,Computer,No,September,7,4,4,Late
+Student,Biography,No,August,14,5,8,Late
+Student,Novel,No,January,7,2,4,Late
+Student,Science,No,November,21,3,9,Late
+Student,Novel,No,June,30,2,5,Late
+Student,Fiction,Yes,June,7,5,9,Late
+Public,Biography,Yes,April,14,5,8,Late
+Student,Computer,No,February,14,2,4,Late
+Student,History,Yes,December,14,2,1,Late
+Public,Computer,No,December,14,5,8,Late
+Student,Fiction,No,August,30,3,6,Late
+Student,Fiction,No,August,7,0,7,On Time
+Student,Computer,Yes,March,14,4,5,Late
+Student,Science,Yes,September,30,4,10,Late
+Faculty,Science,No,August,30,2,10,Late
+Public,History,Yes,October,7,1,4,On Time
+Student,Fiction,Yes,April,14,4,2,Late
+Student,Novel,No,December,30,2,1,Late
+Student,Biography,No,December,30,0,4,On Time
+Public,Arts,Yes,July,7,4,4,Late
+Student,History,Yes,February,7,1,5,Late
+Student,Arts,No,August,7,3,5,Late
+Faculty,History,No,August,7,4,1,Late
+Public,Biography,No,October,21,0,2,On Time
+Student,Biography,Yes,November,21,4,1,Late
+Faculty,Science,No,September,30,2,3,Late
+Public,Novel,No,February,30,2,7,Late
+Student,Biography,Yes,March,21,3,8,Late
+Student,Novel,Yes,August,7,2,5,Late
+Student,Arts,No,September,7,5,9,Late
+Student,Fiction,Yes,September,21,4,8,Late
+Student,Arts,Yes,April,21,4,3,Late
+Public,Novel,No,February,7,5,10,Late
+Faculty,Biography,Yes,May,7,4,7,Late
+Student,Arts,Yes,August,7,5,3,Late
+Student,Biography,No,September,21,3,8,Late
+Public,Science,No,September,14,3,4,Late
+Public,Computer,Yes,February,21,3,6,Late
+Public,Computer,No,January,21,5,5,Late
+Faculty,Computer,No,March,30,4,8,Late
+Student,Computer,No,August,21,1,4,Late
+Student,Science,No,January,21,5,8,Late
+Faculty,Arts,No,July,14,3,1,Late
+Student,Computer,No,February,30,0,9,On Time
+Public,Fiction,Yes,July,14,0,8,On Time
+Faculty,History,No,October,30,5,2,Late
+Public,Arts,No,June,30,4,1,Late
+Student,Science,No,April,7,3,2,Late
+Faculty,Biography,Yes,August,14,5,5,Late
+Public,Fiction,No,January,21,2,6,Late
+Student,Science,No,October,14,1,3,On Time
+Student,Arts,No,October,14,3,10,Late
+Student,Novel,No,August,21,5,1,Late
+Public,Novel,No,November,14,0,8,On Time
+Public,Computer,No,November,30,5,5,Late
+Student,History,Yes,July,30,0,4,On Time
+Student,History,No,December,21,0,7,On Time
+Student,Computer,Yes,October,30,2,4,Late
+Student,History,Yes,November,14,4,5,Late
+Faculty,Biography,Yes,November,7,5,1,Late
+Student,Novel,Yes,October,21,5,3,Late
+Student,History,No,December,30,1,4,Late
+Student,Computer,No,September,21,1,5,Late
+Public,Novel,No,December,21,0,8,On Time
+Public,Science,Yes,November,30,4,6,Late
+Student,Novel,Yes,May,7,3,6,Late
+Faculty,Biography,No,October,30,5,6,Late
+Student,Science,No,January,21,4,4,Late
+Student,Biography,No,December,21,5,7,Late
+Student,Fiction,Yes,May,30,0,2,On Time
+Student,Computer,Yes,July,30,2,9,Late
+Student,Biography,Yes,July,7,3,10,Late
+Student,History,Yes,December,21,1,8,Late
+Student,Science,No,February,21,4,6,Late
+Student,History,Yes,February,30,0,4,On Time
+Student,Computer,Yes,January,21,1,3,Late
+Faculty,Science,Yes,September,14,4,4,Late
+Faculty,Science,No,March,7,2,3,Late
+Public,Computer,No,March,7,5,1,Late
+Student,History,Yes,October,21,0,3,On Time
+Student,Science,No,September,7,5,2,Late
+Student,Arts,No,September,7,3,9,Late
+Student,Computer,Yes,December,21,3,1,Late
+Student,Novel,No,July,7,3,8,Late
+Student,Fiction,No,October,14,0,3,On Time
+Student,Biography,No,July,21,3,9,Late
+Student,Fiction,Yes,November,14,3,8,Late
+Public,Novel,No,August,30,3,2,Late
+Student,History,No,June,14,5,8,Late
+Student,Arts,Yes,February,30,0,6,On Time
+Faculty,Computer,Yes,October,21,5,2,Late
+Student,Arts,No,December,7,2,10,Late
+Student,Fiction,Yes,March,30,1,2,Late
+Student,Computer,No,February,21,4,4,Late
+Faculty,Arts,Yes,October,21,0,3,On Time
+Student,Arts,No,June,21,0,3,On Time
+Public,Computer,No,February,14,5,1,Late
+Student,Computer,Yes,July,30,3,6,Late
+Student,History,No,October,7,0,3,On Time
+Student,Computer,Yes,November,7,2,8,Late
+Faculty,Novel,No,July,21,1,9,On Time
+Student,Novel,Yes,May,30,4,5,Late
+Student,Novel,Yes,January,14,2,4,Late
+Faculty,Arts,No,May,21,0,1,On Time
+Student,Novel,Yes,March,30,4,4,Late
+Student,Arts,No,February,30,5,1,Late
+Student,Novel,Yes,June,30,4,7,Late
+Faculty,Novel,No,February,30,0,6,On Time
+Student,Computer,No,December,21,0,7,On Time
+Faculty,Science,No,October,30,4,2,Late
+Student,History,No,April,21,1,2,Late
+Student,Fiction,Yes,June,21,5,3,Late
+Student,Science,No,April,14,4,3,Late
+Faculty,Biography,Yes,March,30,3,10,Late
+Faculty,Novel,No,November,21,1,8,On Time
+Student,Novel,No,May,7,2,9,Late
+Student,Novel,No,January,7,2,5,Late
+Student,Arts,Yes,October,30,3,10,Late
+Student,Arts,Yes,August,14,2,10,Late
+Student,Science,Yes,August,7,2,2,Late
+Student,Science,Yes,April,30,3,9,Late
+Student,Science,No,June,21,3,7,Late
+Faculty,Biography,Yes,November,21,0,6,On Time
+Student,Biography,No,May,21,5,10,Late
+Public,History,Yes,October,14,2,5,Late
+Public,Biography,No,March,7,2,9,On Time
+Student,Arts,No,March,7,5,7,Late
+Student,Fiction,No,May,14,1,6,On Time
+Public,Novel,Yes,April,14,1,2,On Time
+Student,Arts,Yes,September,7,5,6,Late
+Public,Computer,Yes,October,30,1,3,Late
+Student,Biography,Yes,December,30,0,7,On Time
+Student,Biography,Yes,August,21,5,8,Late
+Student,Science,No,August,14,2,10,Late
+Public,Novel,No,July,30,1,4,On Time
+Faculty,Science,No,January,30,2,9,Late
+Public,Biography,Yes,May,7,1,5,On Time
+Student,Computer,Yes,July,7,1,8,On Time
+Public,Fiction,No,January,30,4,6,Late
+Student,Fiction,No,April,7,2,2,Late
+Faculty,Biography,No,March,14,0,5,On Time
+Public,Novel,Yes,December,30,3,10,Late
+Student,Fiction,Yes,May,14,1,9,On Time
+Public,Computer,No,February,21,1,5,On Time
+Student,Science,No,November,30,0,2,On Time
+Faculty,Novel,Yes,November,14,5,3,Late
+Student,Fiction,No,April,30,1,2,Late
+Student,History,Yes,September,7,3,8,Late
+Student,Novel,No,May,7,2,2,Late
+Student,Biography,Yes,October,21,1,1,Late
+Student,History,Yes,November,30,5,8,Late
+Student,Arts,Yes,February,30,0,5,On Time
+Student,Arts,Yes,January,21,2,9,Late
+Student,Arts,No,May,7,5,4,Late
+Student,Arts,Yes,November,21,2,2,Late
+Faculty,Novel,No,December,30,3,6,Late
+Public,Novel,No,June,21,0,7,On Time
+Student,Computer,Yes,September,21,2,2,Late
+Student,Biography,No,May,30,4,7,Late
+Student,Novel,No,August,7,5,6,Late
+Student,Novel,No,November,7,0,7,On Time
+Student,Arts,Yes,January,14,4,8,Late
+Student,Fiction,Yes,November,21,2,7,Late
+Public,Fiction,Yes,November,30,2,6,Late
+Student,Fiction,Yes,September,21,3,6,Late
+Student,Science,Yes,January,14,3,9,Late
+Student,Computer,Yes,May,21,5,8,Late
+Student,Computer,No,December,30,1,2,Late
+Student,Fiction,No,March,30,0,6,On Time
+Faculty,Biography,Yes,September,21,2,3,Late
+Faculty,Biography,Yes,June,14,0,4,On Time
+Faculty,Science,No,January,21,4,10,Late
+Student,Arts,Yes,October,7,0,5,On Time
+Student,Biography,No,September,30,3,10,Late
+Student,History,Yes,August,30,5,9,Late
+Student,Arts,Yes,March,30,4,1,Late
+Faculty,Computer,Yes,May,14,1,6,On Time
+Public,Science,No,September,21,0,5,On Time
+Student,Computer,No,March,21,4,9,Late
+Student,Biography,Yes,October,14,1,10,On Time
+Faculty,Computer,No,October,7,0,2,On Time
+Student,Biography,No,November,14,4,7,Late
+Student,Fiction,No,November,21,5,5,Late
+Student,Arts,No,May,30,0,1,On Time
+Student,Novel,No,August,14,2,10,Late
+Student,Arts,No,December,21,3,3,Late
+Faculty,Computer,Yes,June,14,3,2,Late
+Student,Science,Yes,February,7,2,7,Late
+Public,Novel,Yes,March,21,4,6,Late
+Student,Science,No,September,30,3,5,Late
+Student,Fiction,No,September,30,1,4,Late
+Student,Fiction,Yes,May,30,4,8,Late
+Student,Fiction,Yes,July,14,2,6,Late
+Faculty,History,Yes,July,7,4,9,Late
+Student,Computer,No,February,30,4,8,Late
+Faculty,History,Yes,March,7,3,6,Late
+Faculty,History,No,March,14,4,9,Late
+Student,Fiction,Yes,January,14,5,6,Late
+Faculty,Computer,No,March,14,2,10,On Time
+Student,Novel,No,October,21,4,9,Late
+Student,Biography,No,August,7,2,6,Late
+Faculty,Novel,No,December,7,4,8,Late
+Student,Biography,Yes,December,7,4,8,Late
+Student,Biography,No,March,14,0,10,On Time
+Public,Fiction,Yes,January,30,2,7,Late
+Student,Biography,Yes,July,30,5,1,Late
+Faculty,Computer,Yes,September,21,5,8,Late
+Student,History,Yes,August,21,4,6,Late
+Faculty,Arts,No,October,30,1,4,On Time
+Student,History,Yes,May,21,5,4,Late
+Faculty,Novel,No,August,21,4,5,Late
+Student,Computer,No,July,21,1,5,Late
+Student,Biography,Yes,June,30,5,5,Late
+Faculty,Science,Yes,September,21,4,5,Late
+Student,Computer,Yes,April,7,5,9,Late
+Student,Science,Yes,February,30,2,8,Late
+Student,Arts,Yes,January,14,3,8,Late
+Student,Science,No,June,21,5,1,Late
+Public,Fiction,Yes,September,7,1,7,On Time
+Public,Science,Yes,July,30,1,5,Late
+Public,Fiction,No,October,7,2,5,Late
+Student,Biography,No,March,30,2,4,Late
+Faculty,History,Yes,December,30,5,5,Late
+Faculty,Fiction,No,May,14,1,10,On Time
+Public,Novel,No,September,21,0,7,On Time
+Faculty,Science,Yes,August,21,1,1,Late
+Student,Science,No,May,21,2,10,Late
+Faculty,Fiction,No,November,21,5,4,Late
+Student,Fiction,No,May,14,3,9,Late
+Public,Biography,No,December,7,5,5,Late
+Student,Science,Yes,March,30,1,8,Late
+Faculty,Computer,No,July,30,4,4,Late
+Faculty,Biography,Yes,September,30,4,6,Late
+Student,Computer,Yes,January,14,4,9,Late
+Student,History,No,February,14,5,10,Late
+Student,Computer,No,January,30,1,9,On Time
+Student,Computer,Yes,September,30,5,5,Late
+Faculty,Novel,No,January,14,4,2,Late
+Student,History,Yes,September,7,0,8,On Time
+Student,Novel,Yes,March,30,2,7,Late
+Student,Novel,No,February,14,5,6,Late
+Student,Computer,No,September,14,5,4,Late
+Faculty,Arts,Yes,May,30,5,9,Late
+Student,Novel,Yes,April,30,2,3,Late
+Student,Biography,Yes,January,30,4,1,Late
+Student,Fiction,Yes,October,7,3,10,Late
+Faculty,Arts,Yes,April,7,3,8,Late
+Student,Science,Yes,March,21,1,10,Late
+Student,Computer,No,April,21,1,9,On Time
+Student,History,No,January,14,5,7,Late
+Student,Fiction,No,November,30,4,6,Late
+Faculty,Novel,Yes,May,30,1,9,On Time
+Student,Arts,Yes,May,14,3,1,Late
+Student,Novel,Yes,July,14,2,4,Late
+Student,Fiction,No,June,7,4,4,Late
+Student,Novel,Yes,February,14,4,9,Late
+Student,Science,No,May,7,1,4,On Time
+Public,Fiction,No,April,14,3,4,Late
+Student,Arts,No,July,30,4,6,Late
+Student,History,No,August,7,5,8,Late
+Faculty,History,Yes,June,21,3,1,Late
+Student,Science,Yes,January,21,4,10,Late
+Student,Novel,No,March,14,2,4,Late
+Student,Arts,Yes,August,21,2,8,Late
+Public,Biography,No,August,14,5,6,Late
+Student,Biography,No,March,7,4,1,Late
+Faculty,Fiction,Yes,January,30,1,4,Late
+Student,Science,Yes,April,30,2,1,Late
+Student,Biography,No,November,30,0,1,On Time
+Student,Novel,Yes,January,21,4,5,Late
+Student,Arts,No,March,7,0,9,On Time
+Student,Science,No,June,21,3,2,Late
+Student,Novel,No,October,14,5,4,Late
+Student,Arts,Yes,November,7,0,7,On Time
+Student,Computer,No,January,7,5,3,Late
+Student,Arts,No,November,21,4,2,Late
+Public,Fiction,Yes,April,30,2,1,Late
+Public,Biography,No,September,7,1,6,On Time
+Student,Science,Yes,December,30,0,5,On Time
+Student,Science,No,November,21,3,3,Late
+Faculty,Biography,Yes,September,21,0,2,On Time
+Student,Arts,Yes,June,30,2,1,Late
+Student,Arts,No,August,14,2,9,Late
+Public,Novel,Yes,November,30,0,10,On Time
+Student,Science,Yes,February,21,1,7,Late
+Faculty,Biography,Yes,December,30,2,6,Late
+Student,Fiction,No,August,21,2,2,Late
+Student,Science,No,August,30,0,1,On Time
+Student,Computer,Yes,October,21,3,1,Late
+Student,Novel,Yes,December,14,4,9,Late
+Student,Novel,Yes,March,21,2,5,Late
+Student,Fiction,Yes,July,21,3,5,Late
+Student,Fiction,No,May,14,5,8,Late
+Student,Science,No,February,14,2,1,Late
+Public,History,No,June,30,2,7,Late
+Faculty,Arts,Yes,May,21,4,4,Late
+Student,Science,No,June,21,5,8,Late
+Public,Arts,Yes,June,30,2,7,Late
+Student,Computer,Yes,October,14,5,9,Late
+Student,Biography,No,December,14,3,5,Late
+Faculty,Fiction,No,November,30,1,5,On Time
+Student,Biography,Yes,December,30,3,2,Late
+Student,Computer,No,October,30,4,9,Late
+Public,Arts,No,September,7,2,9,On Time
+Student,Fiction,Yes,April,21,1,10,Late
+Student,Biography,No,June,30,0,1,On Time
+Student,Science,Yes,August,21,3,8,Late
+Faculty,Computer,Yes,June,7,3,2,Late
+Student,Fiction,Yes,December,14,2,5,Late
+Student,Arts,Yes,September,30,2,8,Late
+Student,Biography,No,June,7,2,1,Late
+Faculty,Fiction,Yes,June,7,5,3,Late
+Public,Biography,Yes,September,14,4,3,Late
+Student,Novel,No,April,30,5,3,Late
+Student,Biography,No,July,7,5,10,Late
+Public,Novel,No,July,7,5,4,Late
+Student,Arts,Yes,October,7,4,3,Late
+Student,Science,No,February,21,5,8,Late
+Student,Biography,No,October,30,4,7,Late
+Student,History,No,August,14,5,5,Late
+Public,Computer,Yes,November,14,2,2,Late
+Student,Fiction,Yes,June,14,4,7,Late
+Student,Science,No,July,14,3,9,Late
+Faculty,Biography,Yes,September,14,3,5,Late
+Student,History,No,October,7,2,1,Late
+Student,Science,No,September,30,3,8,Late
+Student,Arts,No,August,14,0,10,On Time
+Student,Arts,Yes,May,7,2,4,Late
+Student,Science,No,October,30,4,9,Late
+Student,Fiction,No,September,21,4,1,Late
+Faculty,Novel,Yes,July,7,5,4,Late
+Student,Fiction,No,May,21,0,8,On Time
+Public,Fiction,Yes,April,21,5,10,Late
+Student,Science,Yes,April,14,0,10,On Time
+Student,History,Yes,June,21,2,10,Late
+Student,Arts,Yes,March,30,0,5,On Time
+Public,Science,Yes,April,14,5,6,Late
+Faculty,Arts,No,August,14,4,5,Late
+Student,Novel,No,February,7,3,9,Late
+Faculty,Biography,No,August,30,2,10,Late
+Student,Arts,Yes,December,30,5,6,Late
+Public,Arts,No,April,30,1,8,On Time
+Student,Arts,No,June,14,4,8,Late
+Faculty,Biography,Yes,January,7,5,8,Late
+Student,Arts,Yes,August,30,0,7,On Time
+Student,Biography,Yes,November,21,1,5,Late
+Student,History,No,February,21,5,3,Late
+Student,Biography,No,December,14,3,2,Late
+Faculty,Fiction,Yes,August,7,1,10,On Time
+Student,Biography,No,January,7,5,6,Late
+Faculty,Arts,No,December,14,3,2,Late
+Student,Fiction,Yes,February,21,2,5,Late
+Student,Arts,Yes,November,14,0,9,On Time
+Student,Computer,Yes,August,21,5,4,Late
+Student,Science,No,October,30,1,2,Late
+Public,Science,Yes,October,30,2,7,Late
+Student,Science,Yes,May,7,1,9,On Time
+Student,Biography,No,December,7,5,5,Late
+Student,Computer,Yes,December,30,2,1,Late
+Faculty,Arts,Yes,August,30,0,4,On Time
+Student,Computer,Yes,September,7,2,6,Late
+Student,Arts,No,June,14,3,2,Late
+Student,Fiction,Yes,May,14,0,1,On Time
+Public,Novel,No,November,30,3,7,Late
+Student,Computer,Yes,May,7,2,2,Late
+Student,Science,Yes,September,21,3,10,Late
+Student,Arts,Yes,May,30,5,4,Late
+Student,Fiction,No,February,30,4,10,Late
+Student,Biography,Yes,February,7,5,3,Late
+Faculty,Science,No,June,21,1,6,On Time
+Student,Arts,No,December,7,0,6,On Time
+Faculty,History,Yes,May,7,3,8,Late
+Student,Fiction,No,October,14,2,3,Late
+Student,Fiction,Yes,April,7,0,1,On Time
+Student,Novel,No,July,14,1,1,On Time
+Student,Biography,No,April,21,1,7,Late
+Public,History,No,February,21,0,9,On Time
+Faculty,Fiction,Yes,April,7,3,2,Late
+Public,Arts,No,May,21,0,9,On Time
+Student,History,Yes,May,21,5,10,Late
+Student,History,No,April,14,1,1,On Time
+Public,Fiction,Yes,September,21,5,1,Late
+Public,Fiction,No,December,21,0,4,On Time
+Student,Science,No,August,7,1,5,On Time
+Student,Science,No,December,21,3,2,Late
+Student,Computer,Yes,November,30,0,10,On Time
+Student,Novel,Yes,April,21,2,6,Late
+Public,Novel,No,June,30,2,4,Late
+Student,Science,Yes,October,7,1,2,Late
+Student,Novel,No,July,7,4,6,Late
+Public,Science,No,May,30,2,2,Late
+Student,Arts,No,December,7,1,6,On Time
+Student,Biography,Yes,June,30,4,1,Late
+Faculty,History,Yes,January,30,3,9,Late
+Faculty,Science,Yes,August,7,1,2,On Time
+Student,Arts,Yes,March,14,3,6,Late
+Faculty,Biography,Yes,October,21,0,1,On Time
+Public,Science,No,March,7,2,2,Late
+Student,Novel,Yes,March,30,5,7,Late
+Student,Novel,No,March,21,1,3,Late
+Student,Novel,Yes,January,14,5,5,Late
+Student,Computer,No,January,7,2,7,Late
+Student,Science,Yes,November,7,3,6,Late
+Student,Arts,No,June,21,3,5,Late
+Student,History,Yes,January,21,0,8,On Time
+Student,Arts,Yes,March,7,1,4,Late
+Student,Arts,Yes,April,30,2,3,Late
+Student,Computer,No,December,21,4,1,Late
+Faculty,History,Yes,October,14,3,9,Late
+Student,Novel,Yes,February,7,1,10,On Time
+Student,Computer,No,January,21,4,4,Late
+Faculty,History,Yes,June,7,0,3,On Time
+Student,Science,Yes,September,21,0,6,On Time
+Faculty,Biography,No,October,7,2,5,Late
+Student,Science,No,November,30,5,6,Late
+Student,Computer,No,April,14,3,5,Late
+Faculty,History,Yes,March,7,5,10,Late
+Student,Arts,Yes,March,21,4,4,Late
+Student,Fiction,No,March,21,5,2,Late
+Student,History,Yes,November,7,5,6,Late
+Student,History,Yes,April,7,2,5,Late
+Faculty,Biography,Yes,January,30,3,7,Late
+Public,Novel,No,July,21,4,7,Late
+Student,Novel,Yes,March,30,0,1,On Time
+Student,History,No,February,7,2,3,Late
+Public,Science,Yes,September,7,2,10,Late
+Public,Novel,Yes,July,14,4,7,Late
+Student,Fiction,No,April,14,3,9,Late
+Faculty,Biography,No,November,21,2,4,Late
+Student,Novel,No,March,7,2,1,Late
+Student,History,No,April,7,0,4,On Time
+Student,History,Yes,August,7,2,7,Late
+Student,Biography,No,February,30,1,6,Late
+Public,History,Yes,August,7,2,8,Late
+Student,Science,No,October,7,1,2,On Time
+Student,History,No,October,14,4,1,Late
+Faculty,Arts,No,September,30,4,4,Late
+Student,Fiction,No,December,7,4,10,Late
+Public,Arts,Yes,February,30,1,3,Late
+Public,Arts,Yes,March,7,3,2,Late
+Public,Novel,Yes,November,14,4,5,Late
+Student,Biography,Yes,February,30,4,7,Late
+Student,Arts,No,September,30,0,10,On Time
+Student,Arts,No,February,30,1,3,Late
+Student,Computer,Yes,February,7,2,9,Late
+Public,Novel,No,July,30,4,10,Late
+Student,Science,No,July,14,4,10,Late
+Faculty,Novel,Yes,July,21,5,4,Late
+Student,Novel,No,June,7,2,5,Late
+Student,Arts,No,December,7,1,3,On Time
+Student,Biography,No,June,21,5,7,Late
+Student,Fiction,Yes,August,14,3,8,Late
+Faculty,Arts,No,January,14,0,5,On Time
+Faculty,Novel,Yes,September,7,1,4,On Time
+Public,Science,Yes,April,7,3,1,Late
+Public,Biography,Yes,May,21,3,9,Late
+Student,Fiction,Yes,April,21,3,10,Late
+Student,Arts,No,October,21,2,3,Late
+Faculty,History,Yes,May,7,3,1,Late
+Student,Computer,Yes,April,14,5,4,Late
+Student,Novel,Yes,November,7,3,3,Late
+Student,Computer,Yes,April,21,4,5,Late
+Faculty,Biography,No,July,30,2,8,Late
+Student,Novel,No,November,30,4,2,Late
+Student,Biography,No,September,21,2,2,Late
+Student,History,No,November,21,2,5,Late
+Faculty,Biography,No,April,14,4,4,Late
+Public,Arts,No,November,21,5,3,Late
+Faculty,Biography,No,May,21,3,7,Late
+Student,Fiction,Yes,June,14,5,9,Late
+Student,Novel,No,September,21,1,9,On Time
+Student,Fiction,No,March,21,5,9,Late
+Faculty,Science,No,November,7,1,6,On Time
+Student,Arts,No,July,21,2,5,Late
+Student,Novel,Yes,August,7,5,10,Late
+Student,Computer,Yes,August,14,4,2,Late
+Public,Novel,No,July,7,1,3,On Time
+Public,History,No,October,30,1,6,On Time
+Public,Science,Yes,August,21,5,3,Late
+Student,Fiction,Yes,August,21,1,3,Late
+Student,Science,No,February,14,4,7,Late
+Student,Novel,No,August,30,0,1,On Time
+Student,Biography,No,January,21,4,4,Late
+Student,Fiction,Yes,April,21,2,3,Late
+Student,Computer,No,March,7,0,5,On Time
+Public,Novel,No,July,14,2,8,On Time
+Student,Science,Yes,July,7,1,4,Late
+Faculty,Science,Yes,December,7,4,9,Late
+Student,History,Yes,July,21,4,10,Late
+Student,Fiction,Yes,November,7,0,2,On Time
+Student,Novel,Yes,September,21,3,3,Late
+Student,Biography,Yes,May,30,5,2,Late
+Faculty,History,Yes,July,7,4,10,Late
+Student,Fiction,Yes,August,14,4,4,Late
+Faculty,Arts,Yes,June,30,2,3,Late
+Student,Novel,Yes,December,30,2,4,Late
+Student,Biography,Yes,February,30,1,2,Late
+Faculty,Fiction,Yes,May,14,3,5,Late
+Student,Fiction,Yes,March,7,2,6,Late
+Faculty,History,No,December,7,0,1,On Time
+Student,Science,Yes,June,21,3,10,Late
+Student,Biography,Yes,June,21,1,2,Late
+Student,Novel,No,July,30,3,3,Late
+Student,Biography,Yes,March,7,3,10,Late
+Student,Computer,No,March,30,2,10,Late
+Student,Biography,Yes,August,30,0,7,On Time
+Student,Fiction,No,November,21,0,9,On Time
+Faculty,Computer,Yes,November,21,4,9,Late
+Faculty,Computer,Yes,July,14,3,6,Late
+Faculty,Biography,No,March,7,0,3,On Time
+Student,Novel,No,March,7,3,6,Late
+Student,History,Yes,September,14,4,7,Late
+Student,Science,Yes,August,30,4,8,Late
+Student,Novel,No,June,7,3,1,Late
+Student,Novel,Yes,September,7,0,10,On Time
+Public,Biography,No,September,14,5,8,Late
+Public,History,Yes,April,30,2,9,Late
+Faculty,Computer,No,December,21,5,8,Late
+Student,Arts,Yes,January,21,2,5,Late
+Student,History,Yes,January,14,3,3,Late
+Faculty,Biography,No,February,21,4,4,Late
+Student,Arts,No,April,30,1,6,Late
+Student,Novel,Yes,November,7,3,8,Late
+Faculty,Computer,Yes,August,7,4,1,Late
+Student,Novel,No,September,14,5,10,Late
+Student,Arts,Yes,February,30,5,10,Late
+Student,History,No,July,14,2,7,Late
+Public,History,No,March,14,3,10,Late
+Faculty,Biography,No,December,21,5,9,Late
+Student,Science,Yes,October,21,5,6,Late
+Public,Science,Yes,September,21,5,2,Late
+Faculty,Computer,No,October,30,5,9,Late
+Student,Arts,No,January,7,0,7,On Time
+Student,Biography,Yes,April,21,1,5,Late
+Faculty,Science,Yes,December,21,1,9,On Time
+Student,Arts,No,February,14,5,9,Late
+Student,Computer,No,December,7,3,7,Late
+Student,Arts,No,September,7,0,5,On Time
+Student,Arts,No,April,21,4,9,Late
+Faculty,Science,Yes,May,30,1,2,Late
+Student,Science,Yes,July,7,3,5,Late
+Student,Science,Yes,October,21,0,6,On Time
+Student,Science,Yes,March,21,4,1,Late
+Faculty,Biography,No,August,21,0,6,On Time
+Student,Science,Yes,September,14,3,9,Late
+Student,Fiction,No,April,14,5,6,Late
+Student,History,Yes,October,30,4,1,Late
+Student,History,No,April,14,0,6,On Time
+Student,Arts,Yes,July,21,4,5,Late
+Student,Computer,No,September,30,3,1,Late
+Student,Biography,Yes,June,7,0,3,On Time
+Public,Arts,Yes,November,7,1,4,On Time
+Public,Novel,Yes,April,30,5,2,Late
+Faculty,Science,Yes,August,21,0,2,On Time
+Student,Science,No,September,7,4,4,Late
+Public,Novel,No,August,30,3,6,Late
+Student,Biography,Yes,September,7,5,10,Late
+Student,Biography,Yes,December,7,2,9,Late
+Student,Arts,No,October,7,2,8,Late
+Student,Arts,Yes,August,14,4,4,Late
+Student,Novel,No,November,14,2,6,Late
+Public,Fiction,Yes,February,7,0,10,On Time
+Student,Computer,Yes,May,14,5,6,Late
+Student,Biography,Yes,March,14,1,10,On Time
+Faculty,Science,Yes,March,7,4,8,Late
+Student,Fiction,No,November,7,2,2,Late
+Student,Computer,No,June,21,1,4,Late
+Student,Computer,Yes,April,21,3,8,Late
+Student,Biography,No,December,14,4,10,Late
+Student,History,No,March,7,2,4,Late
+Faculty,Biography,No,May,21,1,6,On Time
+Public,Novel,No,June,21,3,9,Late
+Student,Biography,Yes,May,14,4,4,Late
+Student,Biography,Yes,December,7,0,9,On Time
+Student,Arts,No,October,14,0,9,On Time
+Student,Computer,No,November,14,2,7,Late
+Student,Arts,No,March,30,4,9,Late
+Student,History,Yes,November,14,4,3,Late
+Faculty,Science,No,March,14,4,10,Late
+Faculty,Science,No,June,7,1,8,On Time
+Student,History,No,April,7,5,4,Late
+Student,Arts,No,July,30,3,1,Late
+Student,Biography,No,February,21,5,5,Late
+Student,Computer,Yes,July,30,2,10,Late
+Faculty,Arts,Yes,September,21,3,4,Late
+Student,History,No,August,30,4,1,Late
+Student,Science,No,March,14,0,9,On Time
+Student,Science,Yes,March,14,2,10,Late
+Faculty,Fiction,Yes,July,21,5,2,Late
+Student,Novel,No,April,14,5,7,Late
+Student,Fiction,Yes,October,14,1,9,On Time
+Student,Computer,Yes,January,14,2,3,Late
+Student,Novel,Yes,December,21,0,4,On Time
+Student,Novel,No,March,14,3,10,Late
+Student,Computer,Yes,October,21,1,6,Late
+Public,Computer,Yes,April,30,3,3,Late
+Student,Science,No,March,7,1,8,On Time
+Public,Computer,Yes,September,7,0,8,On Time
+Faculty,Computer,Yes,November,30,4,7,Late
+Student,Fiction,No,April,30,3,6,Late
+Student,Biography,Yes,July,14,2,8,Late
+Faculty,Arts,Yes,May,30,2,4,Late
+Student,Biography,Yes,October,7,4,1,Late
+Student,Science,No,July,21,0,3,On Time
+Student,Computer,No,May,30,4,6,Late
+Student,Biography,No,April,30,4,9,Late
+Student,History,No,May,21,4,6,Late
+Faculty,Novel,Yes,November,7,5,4,Late
+Student,Biography,Yes,February,14,4,7,Late
+Faculty,Arts,Yes,March,30,5,1,Late
+Faculty,Arts,Yes,August,30,0,2,On Time
+Student,History,Yes,October,7,5,7,Late
+Public,Novel,No,December,7,1,8,On Time
+Student,Science,No,April,7,4,9,Late
+Student,Science,Yes,November,7,2,4,Late
+Faculty,Science,Yes,May,30,2,7,Late
+Student,Science,Yes,December,7,0,9,On Time
+Student,Arts,No,June,21,1,10,On Time
+Public,Novel,No,October,7,2,3,Late
+Student,Fiction,Yes,September,21,2,2,Late
+Faculty,History,No,December,30,3,10,Late
+Student,Science,No,August,30,4,1,Late
+Student,History,Yes,July,14,5,4,Late
+Faculty,Novel,No,September,7,5,5,Late
+Student,Fiction,No,November,21,0,9,On Time
+Public,Novel,No,June,14,4,5,Late
+Student,Biography,Yes,August,14,1,4,Late
+Public,Science,Yes,April,14,4,6,Late
+Student,Fiction,Yes,February,30,4,1,Late
+Faculty,Computer,Yes,August,21,4,6,Late
+Student,Computer,No,August,14,4,5,Late
+Student,Arts,Yes,January,30,3,9,Late
+Student,History,No,November,14,3,2,Late
+Faculty,Novel,No,December,7,0,4,On Time
+Student,Fiction,No,June,21,1,9,On Time
+Student,History,No,October,21,2,3,Late
+Student,Science,No,December,21,2,7,Late
+Student,Science,Yes,October,14,0,5,On Time
+Faculty,Computer,No,July,14,1,3,On Time
+Student,Fiction,Yes,July,30,1,9,Late
+Student,History,No,May,21,4,10,Late
+Student,Fiction,Yes,January,14,2,8,Late
+Faculty,Fiction,No,December,21,2,6,Late
+Student,Computer,No,June,7,3,2,Late
+Student,Biography,Yes,October,14,2,6,Late
+Student,Computer,No,December,30,0,7,On Time
+Student,Novel,Yes,March,21,3,10,Late
+Student,Arts,Yes,February,14,2,4,Late
+Student,Biography,No,December,21,4,7,Late
+Student,Novel,No,December,30,3,3,Late
+Student,Fiction,Yes,December,14,5,5,Late
+Public,Biography,Yes,April,14,3,2,Late
+Student,Novel,Yes,January,30,4,2,Late
+Student,Computer,Yes,February,30,2,4,Late
+Student,History,No,November,14,1,9,On Time
+Faculty,Fiction,Yes,November,21,2,8,Late
+Student,Arts,No,September,30,1,9,On Time
+Student,Computer,No,November,30,4,9,Late
+Student,History,No,September,14,0,8,On Time
+Student,Novel,No,March,21,0,1,On Time
+Student,Arts,Yes,June,21,3,9,Late
+Student,Novel,No,May,7,3,5,Late
+Student,Arts,Yes,September,21,1,7,Late
+Public,Novel,No,April,14,5,7,Late
+Faculty,Science,No,February,30,5,4,Late
+Student,Arts,No,May,21,3,4,Late
+Public,Science,Yes,May,7,5,8,Late
+Student,History,No,April,21,0,3,On Time
+Student,Computer,Yes,March,7,2,5,Late
+Student,Novel,Yes,April,7,1,1,Late
+Student,History,No,May,30,2,8,Late
+Faculty,Fiction,No,February,14,0,5,On Time
+Faculty,Fiction,No,March,14,2,7,Late
+Faculty,Fiction,Yes,July,30,1,1,Late
+Student,Biography,Yes,September,14,3,7,Late
+Faculty,History,No,March,7,5,9,Late
+Student,History,No,November,21,1,6,Late
+Public,Arts,Yes,February,14,5,7,Late
+Student,Science,No,October,7,3,4,Late
+Student,Fiction,No,December,14,2,2,Late
+Student,Novel,Yes,November,21,5,1,Late
+Student,Biography,Yes,December,7,1,8,On Time
+Student,Computer,No,August,14,0,7,On Time
+Student,Science,No,January,30,5,8,Late
+Student,Computer,No,April,14,4,6,Late
+Student,Novel,No,October,14,0,9,On Time
+Student,History,No,September,21,3,1,Late
+Faculty,Computer,No,December,14,0,10,On Time
+Public,Arts,Yes,June,7,5,9,Late
+Faculty,Science,No,September,14,4,5,Late
+Student,Biography,No,February,7,4,2,Late
+Student,Science,Yes,January,14,0,8,On Time
+Student,Fiction,No,November,30,4,10,Late
+Faculty,History,Yes,June,14,4,2,Late
+Student,Science,No,February,30,5,1,Late
+Student,Biography,No,June,7,4,5,Late
+Student,Biography,Yes,May,7,1,9,On Time
+Student,Biography,Yes,September,30,1,4,Late
+Student,Science,Yes,September,30,5,2,Late
+Faculty,Computer,No,November,30,5,7,Late
+Public,Science,Yes,September,30,4,6,Late
+Faculty,Computer,No,June,21,4,6,Late
+Faculty,Novel,No,December,21,4,4,Late
+Student,Science,No,September,21,2,8,Late
+Student,Novel,Yes,December,7,2,10,Late
+Student,Science,No,January,21,1,4,Late
+Public,Fiction,No,September,14,0,1,On Time
+Student,Science,Yes,May,21,4,4,Late
+Student,Arts,No,February,30,4,4,Late
+Faculty,Biography,No,August,14,3,10,Late
+Faculty,Fiction,No,January,30,0,1,On Time
+Public,History,No,July,30,0,4,On Time
+Faculty,Arts,Yes,November,30,0,5,On Time
+Student,History,Yes,June,14,1,1,Late
+Faculty,Novel,No,October,7,1,7,On Time
+Student,Novel,Yes,March,21,0,8,On Time
+Student,Fiction,No,May,7,3,9,Late
+Student,Biography,Yes,March,30,4,4,Late
+Student,Biography,Yes,September,14,1,2,Late
+Student,Novel,No,November,7,0,7,On Time
+Student,History,Yes,June,21,4,1,Late
+Faculty,Science,No,October,30,4,3,Late
+Student,Arts,Yes,April,21,1,2,Late
+Student,Fiction,Yes,October,14,2,1,Late
+Student,Arts,Yes,May,30,3,1,Late
+Student,Biography,Yes,April,21,4,8,Late
+Student,Science,Yes,July,7,2,3,Late
+Student,Science,No,January,30,5,1,Late
+Student,Biography,No,November,21,0,1,On Time
+Student,Biography,No,April,30,4,2,Late
+Public,Novel,Yes,March,14,4,8,Late
+Student,Biography,Yes,January,14,4,5,Late
+Student,Novel,Yes,January,21,5,6,Late
+Student,History,Yes,September,21,0,5,On Time
+Public,Arts,Yes,September,21,1,3,Late
+Student,Novel,Yes,February,30,4,10,Late
+Public,Biography,Yes,July,14,4,3,Late
+Student,History,No,August,14,1,3,On Time
+Student,Biography,Yes,March,21,5,9,Late
+Public,Novel,Yes,November,14,2,2,Late
+Student,Biography,Yes,March,21,1,1,Late
+Faculty,Novel,No,May,30,5,5,Late
+Student,Science,Yes,March,14,0,10,On Time
+Student,Computer,Yes,October,14,1,1,Late
+Student,Biography,No,March,30,5,6,Late
+Student,Novel,No,August,14,1,4,On Time
+Student,Novel,Yes,May,30,1,4,Late
+Faculty,Fiction,Yes,August,30,5,6,Late
+Public,Science,No,July,7,4,7,Late
+Faculty,Novel,Yes,September,7,3,8,Late
+Faculty,Fiction,Yes,September,30,5,1,Late
+Student,Computer,Yes,April,21,3,7,Late
+Public,Arts,No,August,14,3,5,Late
+Student,Fiction,Yes,August,30,0,9,On Time
+Student,Arts,Yes,July,30,2,8,Late
+Student,Novel,Yes,August,7,2,6,Late
+Faculty,Biography,Yes,December,7,0,2,On Time
+Faculty,Biography,No,February,30,5,9,Late
+Student,Science,No,September,30,0,3,On Time
+Public,Computer,Yes,March,14,1,1,On Time
+Student,History,No,May,14,0,3,On Time
+Public,Fiction,No,January,30,3,8,Late
+Student,Fiction,No,April,14,4,8,Late
+Student,Novel,Yes,October,7,1,9,On Time
+Student,Biography,Yes,January,14,1,1,Late
+Faculty,Fiction,Yes,January,21,2,2,Late
+Student,Novel,Yes,March,21,4,10,Late
+Student,Computer,Yes,August,21,0,2,On Time
+Faculty,History,No,July,7,3,9,Late
+Student,Novel,Yes,February,21,2,9,Late
+Student,Science,Yes,October,7,0,10,On Time
+Faculty,Biography,Yes,August,21,3,10,Late
+Faculty,History,No,March,30,4,8,Late
+Student,Science,Yes,December,21,1,1,Late
+Student,Novel,Yes,December,14,4,7,Late
+Student,History,No,September,14,0,4,On Time
+Faculty,History,Yes,May,21,4,9,Late
+Student,Fiction,Yes,November,21,2,7,Late
+Faculty,Computer,Yes,March,14,2,6,Late
+Public,Novel,No,January,14,3,3,Late
+Student,Arts,No,August,30,5,1,Late
+Faculty,History,No,September,7,1,10,On Time
+Faculty,Arts,No,February,14,2,1,Late
+Student,Novel,Yes,October,30,1,10,Late
+Student,Arts,No,December,21,5,1,Late
+Student,Fiction,No,April,21,3,5,Late
+Student,History,Yes,February,21,0,4,On Time
+Public,Novel,Yes,August,14,1,6,On Time
+Public,Biography,No,June,14,0,9,On Time
+Faculty,Science,Yes,December,7,3,7,Late
+Faculty,Computer,Yes,January,21,0,10,On Time
+Public,History,No,January,7,4,5,Late
+Student,Arts,No,November,14,2,4,Late
+Student,History,No,August,7,2,3,Late
+Student,Fiction,Yes,October,7,1,9,On Time
+Student,History,No,March,21,4,4,Late
+Student,History,No,September,30,0,3,On Time
+Student,Biography,Yes,February,30,0,2,On Time
+Student,Science,No,October,21,2,6,Late
+Faculty,Biography,Yes,August,14,0,8,On Time
+Student,History,No,August,14,1,3,On Time
+Public,Computer,No,June,30,1,6,On Time
+Faculty,History,No,August,7,0,8,On Time
+Student,Novel,No,March,21,2,10,Late
+Student,Computer,Yes,July,7,2,9,Late
+Student,Arts,No,September,30,3,10,Late
+Student,Computer,Yes,September,14,3,7,Late
+Student,Science,No,July,21,4,4,Late
+Student,Biography,Yes,December,30,0,10,On Time
+Student,History,Yes,August,14,2,7,Late
+Student,Fiction,No,June,30,5,1,Late
+Student,Arts,Yes,October,7,1,3,Late
+Student,History,No,October,30,1,4,Late
+Faculty,History,No,October,21,3,6,Late
+Public,Computer,Yes,October,30,1,5,Late
+Student,Computer,Yes,January,21,0,5,On Time
+Public,Science,No,December,30,5,6,Late
+Faculty,Novel,No,July,14,5,3,Late
+Student,Science,No,June,30,1,5,Late
+Public,Biography,Yes,March,7,0,1,On Time
+Student,Novel,No,March,7,1,7,On Time
+Public,Arts,No,October,14,3,9,Late
+Student,Arts,No,July,21,1,3,Late
+Student,Fiction,No,December,14,5,9,Late
+Student,Computer,No,January,7,4,8,Late
+Faculty,Fiction,No,December,7,1,9,On Time
+Public,Arts,No,August,7,4,10,Late
+Student,Novel,Yes,November,21,4,1,Late
+Public,Computer,Yes,August,30,4,8,Late
+Student,History,No,June,21,2,3,Late
+Student,Computer,No,December,21,0,8,On Time
+Student,Computer,Yes,November,21,5,10,Late
+Student,Novel,Yes,March,7,2,5,Late
+Student,History,No,May,7,5,2,Late
+Student,Computer,Yes,November,30,2,3,Late
+Student,Biography,Yes,August,14,4,1,Late
+Student,Fiction,Yes,October,14,3,7,Late
+Faculty,Science,No,December,14,1,10,On Time
+Faculty,History,Yes,November,21,0,1,On Time
+Student,Novel,No,May,30,5,9,Late
+Student,Biography,No,August,21,1,9,On Time
+Public,Fiction,No,August,30,5,6,Late
+Public,Biography,Yes,February,21,3,10,Late
+Public,Arts,No,June,21,2,2,Late
+Student,Computer,No,August,14,5,10,Late
+Faculty,Computer,No,November,14,2,9,On Time
+Student,Fiction,Yes,January,30,0,9,On Time
+Student,Novel,No,April,21,2,4,Late
+Student,Computer,Yes,January,14,4,2,Late
+Faculty,Fiction,Yes,October,14,3,10,Late
+Faculty,Science,Yes,December,14,2,5,Late
+Student,Fiction,No,May,30,5,6,Late
+Student,Arts,Yes,May,7,3,7,Late
+Student,Fiction,No,May,14,3,2,Late
+Student,Science,No,March,30,0,3,On Time
+Student,Novel,Yes,October,7,3,5,Late
+Student,Fiction,Yes,October,21,3,1,Late
+Public,Science,Yes,January,30,2,3,Late
+Faculty,Novel,Yes,September,30,3,7,Late
+Student,Biography,Yes,September,14,0,7,On Time
+Public,Arts,No,February,21,2,5,Late
+Student,Biography,Yes,June,21,0,8,On Time
+Faculty,History,Yes,March,7,3,4,Late
+Student,Novel,Yes,November,21,3,2,Late
+Public,Novel,Yes,March,7,1,1,On Time
+Faculty,Computer,Yes,August,30,0,9,On Time
+Student,Novel,No,January,7,2,1,Late
+Student,Biography,Yes,July,7,1,9,On Time
+Student,Biography,Yes,December,14,0,1,On Time
+Faculty,Novel,Yes,August,7,1,3,On Time
+Student,Biography,Yes,May,7,3,10,Late
+Student,Computer,Yes,February,7,3,10,Late
+Faculty,Science,Yes,April,30,2,7,Late
+Student,Biography,Yes,June,14,0,10,On Time
+Student,Fiction,Yes,May,14,3,3,Late
+Faculty,Computer,Yes,August,14,4,1,Late
+Student,Arts,No,March,7,3,2,Late
+Student,Science,Yes,December,21,3,8,Late
+Faculty,Science,Yes,November,21,4,8,Late
+Student,Science,Yes,October,14,5,8,Late
+Student,Fiction,No,June,30,0,9,On Time
+Student,Fiction,Yes,October,21,4,9,Late
+Student,Arts,Yes,May,7,1,2,Late
+Faculty,Biography,No,August,14,1,1,On Time
+Student,History,No,April,30,2,6,Late
+Student,Arts,No,January,7,5,1,Late
+Public,Science,Yes,January,30,4,2,Late
+Student,Science,No,October,21,3,4,Late
+Faculty,History,Yes,February,21,1,2,Late
+Student,Novel,Yes,July,14,0,8,On Time
+Student,Fiction,No,March,14,4,8,Late
+Student,History,Yes,August,14,5,6,Late
+Public,Science,No,March,7,5,10,Late
+Student,Science,Yes,August,30,3,3,Late
+Faculty,Science,No,October,14,5,10,Late
+Public,Computer,Yes,February,30,4,8,Late
